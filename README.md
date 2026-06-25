@@ -24,13 +24,17 @@ Build a fast and secure session management system that stores session informatio
 
 ```text
 redis_session_manager/
-│
-├── config.py
-├── redis_client.py
-├── session_manager.py
-├── main.py
-├── requirements.txt
-└── README.md
+ .gitignore
+ config.py
+ main.py
+ README.md
+ redis_client.py
+ requirements.txt
+ session_manager.py
+ test_connection.py
+ test_get_session.py
+ test_session.py
+ test_update_session.py
 ```
 
 ## Technologies Used
