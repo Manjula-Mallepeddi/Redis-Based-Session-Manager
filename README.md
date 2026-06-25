@@ -124,7 +124,12 @@ Created Session:
 
 Retrieved Session:
 {
-    ...
+    "session_id": "91e5bb85-5fb6-4be1-baaf-462a31081b99",
+    "user_data": {
+        "name": "Manjula",
+        "email": "manjumallepeddi@gmail.com"
+    },
+    "last_accessed": "2026-06-24T15:31:28.447002"
 }
 
 Updated Session:
